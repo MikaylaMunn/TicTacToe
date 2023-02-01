@@ -9,7 +9,7 @@
     "deploy":"gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "reactscripts eject"
+    "eject": "react-scripts eject"
   },
   "keywords": [
     "TicTacToe",
